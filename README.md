@@ -92,6 +92,7 @@ When the above controller action is triggered and the `erb` method is called, it
 
 The resulting HTML will look like this:
 
+
 ```html
 <!doctype html>
 <html>
